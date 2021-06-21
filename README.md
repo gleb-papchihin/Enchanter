@@ -2,8 +2,8 @@
 
 Imagine that we have collection of points...
 
-[points]()
+[points](https://github.com/gleb-papchihin/Enchanter/blob/main/points.png)
 
-We wanna find minimal convex figure that cover all points.
+And we wanna find minimal convex figure that cover all points.
 
-[lines]()
+[lines](https://github.com/gleb-papchihin/Enchanter/blob/main/lines.png)
