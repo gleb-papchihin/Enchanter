@@ -1,4 +1,4 @@
-# Enchanter: Shell finder
+# Enchanter: Convex figure finder
 
 Imagine that we have collection of points...
 
